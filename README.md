@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 
 # 🎵 Flex Music
@@ -140,3 +141,7 @@ app/src/main/java/com/kingmc/flexmusic/
 **Flex Music** © 2025 - King沐宸
 
 </div>
+=======
+# Flex-Music
+基于Kotlin原生的安卓本地音乐播放器，开源无广告
+>>>>>>> 106941d12d31d4d6e0106749ee748ca6f8d37774
